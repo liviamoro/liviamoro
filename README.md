@@ -16,16 +16,12 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: space-around; width: 100%;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=liviamoro&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=L%C3%ADvia%20Moro's%20GitHub%20Stats%20" height="190" alt="stats graph" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liviamoro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="160" alt="languages graph" />
-  </div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liviamoro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 ###
+
 
 <picture>  
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liviamoro/liviamoro/output/github-contribution-grid-snake-dark.svg">  
